@@ -9,7 +9,7 @@
 
 > ## Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing
 >
-> Runze He<sup>1,2,3</sup>, Yiji Cheng<sup>1</sup>, Tiankai Hang<sup>1</sup>, Zhimin Li<sup>1</sup>, Yu Xu<sup>1</sup>, Zijin Yin<sup>1</sup>, Shiyi Zhang<sup>1</sup>, Wenxun Dai<sup>1</sup>, Penghui Du<sup>3</sup>, Ao Ma<sup>3</sup>, Chunyu Wang<sup>1,✝</sup>, Qinglin Lu<sup>1</sup>, Jizhong Han<sup>2,3</sup>, Jiao Dai<sup>2,3,‡</sup>
+> Runze He<sup>1,2,3</sup>, Yiji Cheng<sup>1</sup>, Tiankai Hang<sup>1</sup>, Zhimin Li<sup>1</sup>, Yu Xu<sup>1</sup>, Zijin Yin<sup>1</sup>, Shiyi Zhang<sup>1</sup>, Wenxun Dai<sup>1</sup>, Penghui Du<sup>3</sup>, Ao Ma<sup>3</sup>, Chunyu Wang<sup>1,†</sup>, Qinglin Lu<sup>1</sup>, Jizhong Han<sup>2,3</sup>, Jiao Dai<sup>2,3,‡</sup>
 > 
 > <sup>1</sup>Hunyuan, Tencent, <sup>2</sup>IIE, CAS, <sup>3</sup>UCAS
 
